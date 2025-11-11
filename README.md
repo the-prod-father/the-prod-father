@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact: I love dad jokes and witty sarcasm. I'm a champion of celebrating wins and laughing through setbacks, and I believe momentum is non negotiable but keeping things fun is just as important.
 
+- 💼 Job history: At Axon I helped build and manage digital evidence products supporting law enforcement from the moment video is captured to its presentation in court. I led first and third party video workflows, including ingestion pipelines that convert and store nearly all video formats and automatically transform proprietary files, ensuring accurate playback across the evidence system. I developed features like expanded video format support, automatic conversion and chain of custody tracking so agencies can review, organize and share video evidence with confidence. My work streamlined the journey from body worn camera and CCTV footage through secure storage, redaction, transcription and final presentation in court.
+
 <!---
 the-prod-father/the-prod-father is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
+--->
